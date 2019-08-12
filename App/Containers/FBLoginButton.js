@@ -12,7 +12,7 @@ export default class FBLoginButton extends Component {
         } else {
           console.log('Login was successful with permissions: '
             + result.grantedPermissions.toString());
-			// this.props.navigation.navigate("HomeMain");
+		// this.props.navigation.navigate("HomeMain");
         }
       },
       function (error) {
