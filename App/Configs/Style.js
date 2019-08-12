@@ -1,5 +1,5 @@
 const fontSize={
-    base: 16
+    base: 15
 }
 
 export {
