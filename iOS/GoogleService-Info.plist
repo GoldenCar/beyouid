@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+<<<<<<< HEAD
+	<string>605675335677-oq91fi05jnstl6ph2013r9vj2q9fhsk0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605675335677-oq91fi05jnstl6ph2013r9vj2q9fhsk0</string>
+=======
+	<string>490386541821-h25ptci3rib4e2vklirt7irpca5955lu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.490386541821-h25ptci3rib4e2vklirt7irpca5955lu</string>
+>>>>>>> origin/master
+	<key>API_KEY</key>
+	<string>AIzaSyDrviPKOteElOkkG60FuU8p1pqk0Zy-ByQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605675335677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+<<<<<<< HEAD
+	<string>com.nativescript.beyouid200</string>
+=======
+	<string>org.nativescript.beyouidv200</string>
+>>>>>>> origin/master
+	<key>PROJECT_ID</key>
+	<string>beyouid200</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beyouid200.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+<<<<<<< HEAD
+	<string>1:605675335677:ios:dce52400d979ad19</string>
+=======
+	<string>1:490386541821:ios:cb69ed98b980bb1a</string>
+>>>>>>> origin/master
+	<key>DATABASE_URL</key>
+	<string>https://beyouid200.firebaseio.com</string>
+</dict>
+</plist>
